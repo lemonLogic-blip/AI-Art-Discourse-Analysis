@@ -185,7 +185,11 @@ This project uses publicly available datasets:
    Lloyd, T., Gosciak, J., Nguyen, T., & Naaman, M. (2025).  
    *AI Rules? Characterizing Reddit Community Policies Towards AI-Generated Content.*  
    Proceedings of the CHI Conference on Human Factors in Computing Systems.  
-   https://doi.org/10.1145/3706598.3713292
+  Paper:
+  https://doi.org/10.1145/3706598.3713292
+
+  Dataset:
+  https://github.com/sTechLab/AIRules/tree/main/ai_rules_subreddit_set
 
 2. **AI-Generated Art Popularity and Market Trends Dataset**  
    Soundankar, A. (Kaggle Dataset).  
