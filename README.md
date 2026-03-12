@@ -98,7 +98,7 @@ The analytical pipeline follows these steps:
 
 ### Page 1 — Audience Discourse Overview
 
-![Dashboard Overview](dashboard_overview.png)
+![Dashboard Overview](dashboard_screenshots/dashboard_overview.png)
 
 This page summarizes:
 
@@ -108,7 +108,7 @@ This page summarizes:
 
 ### Page 2 — Engagement Drivers
 
-![Dashboard Engagement](dashboard_engagement.png)
+![Dashboard Engagement](dashboard_screenshots/dashboard_engagement.png)
 
 This page examines deeper engagement dynamics:
 
