@@ -8,6 +8,17 @@ SQL-based discourse analysis and Python engagement modeling
 
 ---
 
+## Key Questions
+
+This project investigates several key questions:
+
+1. How do online communities govern AI-generated art?
+2. How does AI disclosure affect the way audiences respond?
+3. What types of value frames dominate AI art discourse?
+4. Do pricing and engagement signals differ across AI, hybrid, and individual creators?
+
+---
+
 # Datasets
 
 This project integrates **three datasets** to analyze governance rules, audience discourse, and market engagement signals related to AI-generated art.
@@ -191,7 +202,10 @@ This project uses publicly available datasets:
   Dataset:
   https://github.com/sTechLab/AIRules/tree/main/ai_rules_subreddit_set
 
-2. **AI-Generated Art Popularity and Market Trends Dataset**  
+2. ** Audience Discourse Dataset** 
+Self-collected dataset included in this repository under `/datasets`.
+
+3. **AI-Generated Art Popularity and Market Trends Dataset**  
    Soundankar, A. (Kaggle Dataset).  
    https://www.kaggle.com/datasets/atharvasoundankar/ai-generated-art-popularity-and-market-trends
 
