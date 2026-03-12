@@ -135,7 +135,7 @@ The Power BI dashboard file (`ai_art_discourse_dashboard.pbix`) is included in t
 
 This analysis highlights how audience discourse shapes the perceived value of AI-generated art. Several strategic implications emerge for platforms, cultural institutions, and creators.
 
-1. Human-in-the-Loop Narratives Matter
+1. Human in the Loop Narratives Matter
 
 Audience engagement increases when AI artworks are framed as part of a human creative process rather than fully automated generation.
 
